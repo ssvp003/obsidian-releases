@@ -1,7 +1,7 @@
 {
-    "id": "obsidian-auto-linker",
-    "name": "Auto Linker",
+    "id": "obsidian-auto-rename-linker",
+    "name": "Auto Rename Linker",
     "author": "ssvp003",
     "description": "Automatically appends aliases for specific internal links like .canvas, #header, and .base.",
-    "repo": "ssvp003/obsidian-auto-linker"
+    "repo": "ssvp003/obsidian-auto-rename-linker"
 }
